@@ -53,7 +53,7 @@ namespace GettingStarted
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Student}/{action=StudentBio}/{id?}");
+                    pattern: "{controller=Course}/{action=Index}/{id?}");
             });
         }
     }

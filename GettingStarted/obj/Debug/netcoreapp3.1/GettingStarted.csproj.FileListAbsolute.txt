@@ -1,3 +1,10 @@
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.AssemblyInfoInputs.cache
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.AssemblyInfo.cs
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.csproj.CoreCompileInputs.cache
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.MvcApplicationPartsAssemblyInfo.cache
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.RazorAssemblyInfo.cache
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.RazorAssemblyInfo.cs
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.csprojAssemblyReference.cache
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\GettingStarted.exe
@@ -9,6 +16,8 @@ D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Deb
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\GettingStarted.Views.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\GettingStarted.Views.pdb
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -22,6 +31,9 @@ D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Deb
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
@@ -45,7 +57,6 @@ D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Deb
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
@@ -116,12 +127,6 @@ D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Deb
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.AssemblyInfoInputs.cache
-D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.AssemblyInfo.cs
-D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.csproj.CoreCompileInputs.cache
-D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.MvcApplicationPartsAssemblyInfo.cache
-D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.RazorAssemblyInfo.cache
-D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.RazorAssemblyInfo.cs
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\staticwebassets\GettingStarted.StaticWebAssets.Manifest.cache
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\staticwebassets\GettingStarted.StaticWebAssets.xml
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\scopedcss\bundle\GettingStarted.styles.css
@@ -147,3 +152,8 @@ D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Deb
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.dll
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.pdb
 D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\GettingStarted.genruntimeconfig.cache
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\Razor\Views\Students\Create.cshtml.g.cs
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\Razor\Views\Students\Details.cshtml.g.cs
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Wajiha\dotnetcore\Learning ASP.NET Core\GettingStarted\GettingStarted\obj\Debug\netcoreapp3.1\Razor\Views\Students\Index.cshtml.g.cs

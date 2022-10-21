@@ -1,15 +1,16 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace GettingStarted.Models
+namespace GettingStarted.ViewModels
 {
-    public class Student
+    public class CreateStudentViewModel
     {
         public int StudentId { get; set; }
         public string Name { get; set; }
         public DateTime Enrolled { get; set; }
-        public ICollection<StudentCourse> Enrollment { get; set; } = new HashSet<StudentCourse>();
+        public IList<SelectListItem> Courses { get; set; }
     }
 }
