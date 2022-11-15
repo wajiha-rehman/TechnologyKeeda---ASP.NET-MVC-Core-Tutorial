@@ -8485,11 +8485,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Wajiha\\dotnetcore\\Learning ASP.NET Core\\GettingStarted\\GettingStarted\\GettingStarted.csproj",
+      "projectUniqueName": "D:\\Wajiha\\IC Projects\\dotnetcore\\Learning ASP.NET Core\\GettingStarted\\GettingStarted\\GettingStarted.csproj",
       "projectName": "GettingStarted",
-      "projectPath": "D:\\Wajiha\\dotnetcore\\Learning ASP.NET Core\\GettingStarted\\GettingStarted\\GettingStarted.csproj",
+      "projectPath": "D:\\Wajiha\\IC Projects\\dotnetcore\\Learning ASP.NET Core\\GettingStarted\\GettingStarted\\GettingStarted.csproj",
       "packagesPath": "C:\\Users\\warisha.rehman\\.nuget\\packages\\",
-      "outputPath": "D:\\Wajiha\\dotnetcore\\Learning ASP.NET Core\\GettingStarted\\GettingStarted\\obj\\",
+      "outputPath": "D:\\Wajiha\\IC Projects\\dotnetcore\\Learning ASP.NET Core\\GettingStarted\\GettingStarted\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

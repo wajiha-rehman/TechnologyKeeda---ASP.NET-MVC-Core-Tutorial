@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yg5Y+Du/YARNFxafFJDZAmjmCFcd7TXqtzel+nLcf55ouhpD6a5YT7rfLu3A/0IWbTO/NdEg12NGjMuYkkv5JA==",
+  "dgSpecHash": "oYqBJaXlsGPOj5Yd9iPookIKRllPVmOo7Rj7HhShtXlGqOdc6MbRhePdxc6dBmcSzRwD7PJKS8pVeIccaxDv3w==",
   "success": true,
-  "projectFilePath": "D:\\Wajiha\\dotnetcore\\Learning ASP.NET Core\\GettingStarted\\GettingStarted\\GettingStarted.csproj",
+  "projectFilePath": "D:\\Wajiha\\IC Projects\\dotnetcore\\Learning ASP.NET Core\\GettingStarted\\GettingStarted\\GettingStarted.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\warisha.rehman\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\warisha.rehman\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

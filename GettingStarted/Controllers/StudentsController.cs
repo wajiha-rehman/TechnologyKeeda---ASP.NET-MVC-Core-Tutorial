@@ -34,7 +34,7 @@ namespace GettingStarted.Controllers
                 return NotFound();
             }
 
-            var student = await _context.Students
+            var student = await _context.Students.Include(x => x.Enrollment).ThenInclude( y => y.Course )
                 .FirstOrDefaultAsync(m => m.StudentId == id);
             if (student == null)
             {
@@ -97,7 +97,15 @@ namespace GettingStarted.Controllers
                 return NotFound();
             }
 
-            var student = await _context.Students.FindAsync(id);
+            var student = await _context.Students.Include(x => x.Enrollment)
+                .Where(y => y.StudentId == id).FirstOrDefaultAsync();
+            var selectedIds = student.Enrollment.Select( x => x.CourseId ).ToList();
+            var items = _context.Courses.Select(x => new SelectListItem()
+            {
+                Text = x.Title,
+                Value = x.CourseId.ToString(),
+                Selected = selectedIds.Contains(x.CourseId)
+            });
             if (student == null)
             {
                 return NotFound();

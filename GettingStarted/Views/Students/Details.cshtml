@@ -25,6 +25,15 @@
     </dl>
 </div>
 <div>
+    Courses:
+    @foreach ( var course in Model.Enrollment) { 
+        <span>
+            @course.Course.Title
+        </span>
+        <br />
+    }
+</div>
+<div>
     <a asp-action="Edit" asp-route-id="@Model.StudentId">Edit</a> |
     <a asp-action="Index">Back to List</a>
 </div>
